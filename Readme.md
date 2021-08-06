@@ -3,6 +3,7 @@
     <a href="https://github.com/TEAM-PATRICIA/PatriciaMusic2.0"> <img src="https://img.shields.io/github/repo-size/TeamInnexia/innexiaBot?color=cyan&logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
 
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TermuxDad/PatriciaMusic2.0&envs=API_ID,API_HASH,SESSION_NAME,BOT_TOKEN,BOT_NAME,DURATION_LIMIT,SUDO_USERS )
 
 # Pᴀᴛʀɪᴄɪᴀ•Mᴜsɪᴄ👮
 💡 This is Patricia An Advanced Telegram Music Bot For Best Experience  !! 🤖 
